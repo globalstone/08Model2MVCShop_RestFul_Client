@@ -10,5 +10,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="com.springsource.org.aspectj.weaver-1.6.8.RELEASE" level="project" />
+    <orderEntry type="library" name="jackson-annotations-2.9.10" level="project" />
   </component>
 </module>

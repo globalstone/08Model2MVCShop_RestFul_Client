@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.9.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/org.codehaus.jackson.spring5/jackson-annotations-2.9.10.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/org.codehaus.jackson.spring5/jackson-core-2.9.10.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/org.codehaus.jackson.spring5/jackson-databind-2.9.10.8.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/org.codehaus.jackson/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/org.codehaus.jackson/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/junit-4.13.2/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/junit-4.13.2/junit-4.13.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/json_simple-1.1-all/lib/json_simple-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/httpcomponents-client-4.3.4/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/httpcomponents-client-4.3.4/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/httpcomponents-client-4.3.4/lib/fluent-hc-4.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/httpcomponents-client-4.3.4/lib/httpclient-4.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/httpcomponents-client-4.3.4/lib/httpclient-cache-4.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/httpcomponents-client-4.3.4/lib/httpcore-4.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/httpcomponents-client-4.3.4/lib/httpmime-4.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/junit-4.13.2/hamcrest-core-1.3-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/junit-4.13.2/junit-4.13.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/junit-4.13.2/hamcrest-core-1.3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/공유파일/day/z.dependency/junit-4.13.2/junit-4.13.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
